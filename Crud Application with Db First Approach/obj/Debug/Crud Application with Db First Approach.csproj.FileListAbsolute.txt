@@ -1,0 +1,50 @@
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\ApplicationInsights.config
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\csc.exe
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\System.Collections.Immutable.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\vbc.exe
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\VBCSCompiler.exe
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\roslyn\VBCSCompiler.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Crud Application with Db First Approach.dll.config
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Crud Application with Db First Approach.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Crud Application with Db First Approach.pdb
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\EntityFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\EntityFramework.SqlServer.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.AI.Web.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.AI.WindowsServer.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.ApplicationInsights.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.Web.Infrastructure.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Helpers.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Mvc.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Webpages.Deployment.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Webpages.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Webpages.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\EntityFramework.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\EntityFramework.SqlServer.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.AI.Web.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.AI.WindowsServer.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.ApplicationInsights.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Webpages.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Webpages.Deployment.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Webpages.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Helpers.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\bin\System.Web.Mvc.xml
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\obj\Debug\Crud Application with Db First Approach.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\obj\Debug\Crud Application with Db First Approach.dll
+c:\users\student\documents\visual studio 2015\Projects\Crud Application with Db First Approach\Crud Application with Db First Approach\obj\Debug\Crud Application with Db First Approach.pdb
